@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FaceRecognition", "FaceRecognition", "{DB7DC2B1-ECA1-4A8D-B879-6303DA58F5B5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FormRecognition", "FormRecognition", "{90859B92-AC7C-4FAF-BAFE-41A450CDF22B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VideoIndexing", "VideoIndexing", "{BCA95EF5-3D0E-4C6D-A26A-E10FE0A0FB64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaceRecognition", "FaceRecognition\FaceRecognition.csproj", "{D720FBF6-C0CB-4B3F-AC6E-7F5CB79D12D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoIndexing", "VideoIndexing\VideoIndexing.csproj", "{E58CFFA8-9E35-4E74-A7D6-B541980F44D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormRecognition", "FormRecognition\FormRecognition.csproj", "{31E980E4-4DCE-4004-82C8-641B4DEA3914}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kramerica_BingSearch", "Kramerica_BingSearch\Kramerica_BingSearch.csproj", "{1EE5D9C6-8B8B-44D3-98AB-8729C46465B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D720FBF6-C0CB-4B3F-AC6E-7F5CB79D12D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D720FBF6-C0CB-4B3F-AC6E-7F5CB79D12D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D720FBF6-C0CB-4B3F-AC6E-7F5CB79D12D1}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D720FBF6-C0CB-4B3F-AC6E-7F5CB79D12D1}.Debug|x64.Build.0 = Debug|Any CPU
+		{D720FBF6-C0CB-4B3F-AC6E-7F5CB79D12D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D720FBF6-C0CB-4B3F-AC6E-7F5CB79D12D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D720FBF6-C0CB-4B3F-AC6E-7F5CB79D12D1}.Release|x64.ActiveCfg = Release|Any CPU
+		{D720FBF6-C0CB-4B3F-AC6E-7F5CB79D12D1}.Release|x64.Build.0 = Release|Any CPU
+		{E58CFFA8-9E35-4E74-A7D6-B541980F44D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E58CFFA8-9E35-4E74-A7D6-B541980F44D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E58CFFA8-9E35-4E74-A7D6-B541980F44D7}.Debug|x64.ActiveCfg = Debug|x64
+		{E58CFFA8-9E35-4E74-A7D6-B541980F44D7}.Debug|x64.Build.0 = Debug|x64
+		{E58CFFA8-9E35-4E74-A7D6-B541980F44D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E58CFFA8-9E35-4E74-A7D6-B541980F44D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E58CFFA8-9E35-4E74-A7D6-B541980F44D7}.Release|x64.ActiveCfg = Release|x64
+		{E58CFFA8-9E35-4E74-A7D6-B541980F44D7}.Release|x64.Build.0 = Release|x64
+		{31E980E4-4DCE-4004-82C8-641B4DEA3914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31E980E4-4DCE-4004-82C8-641B4DEA3914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31E980E4-4DCE-4004-82C8-641B4DEA3914}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{31E980E4-4DCE-4004-82C8-641B4DEA3914}.Debug|x64.Build.0 = Debug|Any CPU
+		{31E980E4-4DCE-4004-82C8-641B4DEA3914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31E980E4-4DCE-4004-82C8-641B4DEA3914}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31E980E4-4DCE-4004-82C8-641B4DEA3914}.Release|x64.ActiveCfg = Release|Any CPU
+		{31E980E4-4DCE-4004-82C8-641B4DEA3914}.Release|x64.Build.0 = Release|Any CPU
+		{1EE5D9C6-8B8B-44D3-98AB-8729C46465B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EE5D9C6-8B8B-44D3-98AB-8729C46465B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EE5D9C6-8B8B-44D3-98AB-8729C46465B4}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1EE5D9C6-8B8B-44D3-98AB-8729C46465B4}.Debug|x64.Build.0 = Debug|Any CPU
+		{1EE5D9C6-8B8B-44D3-98AB-8729C46465B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EE5D9C6-8B8B-44D3-98AB-8729C46465B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EE5D9C6-8B8B-44D3-98AB-8729C46465B4}.Release|x64.ActiveCfg = Release|Any CPU
+		{1EE5D9C6-8B8B-44D3-98AB-8729C46465B4}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D720FBF6-C0CB-4B3F-AC6E-7F5CB79D12D1} = {DB7DC2B1-ECA1-4A8D-B879-6303DA58F5B5}
+		{E58CFFA8-9E35-4E74-A7D6-B541980F44D7} = {BCA95EF5-3D0E-4C6D-A26A-E10FE0A0FB64}
+		{31E980E4-4DCE-4004-82C8-641B4DEA3914} = {90859B92-AC7C-4FAF-BAFE-41A450CDF22B}
+		{1EE5D9C6-8B8B-44D3-98AB-8729C46465B4} = {90859B92-AC7C-4FAF-BAFE-41A450CDF22B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED1C0174-1E0E-49D0-97D5-7042F800BD8D}
+	EndGlobalSection
+EndGlobal
