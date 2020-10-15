@@ -24,3 +24,5 @@ Automatically extract metadata—such as spoken words, written text, faces, spea
 
 ## Acknowledgments 
 Thank you to Todd Shearer, Mark Robustelli, Erik Naujokas, Michael Obregon, Jim Brennan, Luke Miller, Daniel Eimer, Nick Kapuza and Chris Hogan and the countless other Relativians who made this session possible :) 
+
+- Daphnne Chacon, Technical Business Analyst
